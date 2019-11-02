@@ -1,0 +1,10 @@
+export const LENGUAJE_ESPANOL = 'es';
+export const ELIMINAR = 'Eliminar';
+export const EDITAR = 'Editar';
+export const MAS = 'Mas';
+export const MENOS = 'Menos';
+export const CLICKED = 'Clicked';
+export const MES = 'month';
+export const SEMANA = 'week';
+export const DIA = 'day';
+export const AGREGAR = 'Agregar';
